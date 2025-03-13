@@ -66,7 +66,8 @@ function buildCharts(sample) {
       x: sample_values,
       y: otu_ids,
       mode: 'markers',
-      text: otu_labels,
+      //text: ,
+      hovertext: otu_labels,
       hoverinfo:  'text',
       type: 'bar',
       orientation: 'h'

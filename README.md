@@ -11,4 +11,4 @@ The charts and panel will update automatically when the dropdown menu is changed
 
 <img width="1162" alt="Screenshot 2025-03-27 at 12 34 50 PM" src="https://github.com/user-attachments/assets/0a2eeac3-6a0d-4dba-a6c7-8e6a49dd4684" />
 
-<img width="872" alt="Screenshot 2025-03-26 at 10 49 53 AM" src="https://github.com/user-attachments/assets/f1430d22-55ee-4642-b5ed-250db8c4df61" />
+<img width="1152" alt="Screenshot 2025-03-27 at 12 35 03 PM" src="https://github.com/user-attachments/assets/9148b366-f3b6-42d8-8474-92382f872beb" />
